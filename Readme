@@ -1,0 +1,9 @@
+Instructions to note before execution
+
+1) This assignment is developed requires java using Spring Boot framework. So a runtime for java with version 8 is required.
+
+2) Open the project in an java supported tool and execute the main file.
+
+3) Endpoints for add/update/get payment methods are listed in controller layer. Additionally swagger can be integrated for assistance
+
+4) H2 in memory db is used that creates required tables and insert some initial data into it. You are not required to make any other configurations
